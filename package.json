@@ -28,5 +28,6 @@
     "sound"
   ],
   "author": "Pecacheu <pecacheu@gmail.com>",
-  "license": "GPL-3.0"
+  "license": "GPL-3.0",
+  "type": "module"
 }
